@@ -2,6 +2,8 @@
 
 Sets are unordered collections of unique items.
 
+**Deep Dive:** See [[Data Structures in Python/15 - Mappings and Hash Tables|Mappings and Hash Tables]] for how sets are implemented using hash tables
+
 ## Creating Sets
 
 ```python

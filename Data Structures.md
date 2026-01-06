@@ -34,3 +34,5 @@ Python's built-in data structures for storing and organizing data.
 ---
 
 **Related:** [[Python]] | [[Python Data Types]] | [[Python Iterators]]
+
+**See Also:** [[Data Structures in Python|A First Course on Data Structures in Python]] - Complete textbook covering data structures, algorithms, and analysis

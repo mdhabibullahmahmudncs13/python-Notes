@@ -2,6 +2,8 @@
 
 OOP is a programming paradigm based on objects that contain data and code.
 
+**Deep Dive:** See [[Data Structures in Python/03 - Object-Oriented Programming|OOP in Data Structures]] for design principles, inheritance vs composition, and duck typing
+
 ## Topics
 
 - [[Python OOP Concepts]] - Core OOP principles

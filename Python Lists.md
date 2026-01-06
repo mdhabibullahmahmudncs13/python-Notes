@@ -2,6 +2,8 @@
 
 Lists are ordered, mutable collections that can contain items of different types.
 
+**Deep Dive:** See [[Data Structures in Python/02 - Basic Python|Basic Python]] for fundamentals, [[Data Structures in Python/06 - Stacks and Queues|Stacks and Queues]] for list-based implementations, and [[Data Structures in Python/07 - Deques and Linked Lists|Linked Lists]] for alternatives
+
 ## Creating Lists
 
 ```python

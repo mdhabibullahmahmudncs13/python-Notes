@@ -1,6 +1,8 @@
 # Python Dictionaries
 
-Dictionaries store data in key-value pairs. They are ordered (Python 3.7+), mutable, and don't allow duplicate keys.
+Dictionaries store data in key-value pairs.
+
+**Deep Dive:** See [[Data Structures in Python/15 - Mappings and Hash Tables|Mappings and Hash Tables]] for implementation details and performance analysis They are ordered (Python 3.7+), mutable, and don't allow duplicate keys.
 
 ## Creating Dictionaries
 

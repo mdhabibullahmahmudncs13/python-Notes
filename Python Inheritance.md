@@ -1,7 +1,7 @@
 # Python Inheritance
 
 Inheritance allows a class to inherit attributes and methods from another class.
-
+**Deep Dive:** See [[Data Structures in Python/03 - Object-Oriented Programming|OOP in Data Structures]] for inheritance vs composition and the "is a" relationship
 ## Basic Inheritance
 
 ```python

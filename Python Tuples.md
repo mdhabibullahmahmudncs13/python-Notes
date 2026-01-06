@@ -2,6 +2,8 @@
 
 Tuples are ordered, immutable collections.
 
+**Deep Dive:** See [[Data Structures in Python/02 - Basic Python|Basic Python]] for detailed coverage of tuples and their use cases
+
 ## Creating Tuples
 
 ```python

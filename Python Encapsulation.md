@@ -2,6 +2,8 @@
 
 Encapsulation restricts direct access to an object's data and methods.
 
+**Deep Dive:** See [[Data Structures in Python/03 - Object-Oriented Programming|OOP in Data Structures]] for public interfaces and encapsulation principles
+
 ## Public, Protected, Private
 
 ```python

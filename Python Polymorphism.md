@@ -2,6 +2,8 @@
 
 Polymorphism allows objects of different types to be accessed through the same interface.
 
+**Deep Dive:** See [[Data Structures in Python/03 - Object-Oriented Programming|OOP in Data Structures]] for duck typing and polymorphism in Python
+
 ## Function Polymorphism
 
 ```python

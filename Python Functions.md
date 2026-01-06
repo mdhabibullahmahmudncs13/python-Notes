@@ -2,6 +2,8 @@
 
 Functions are reusable blocks of code that perform specific tasks.
 
+**Deep Dive:** See [[Data Structures in Python/02 - Basic Python|Basic Python]] for functions and [[Data Structures in Python/09 - Recursion|Recursion]] for recursive functions
+
 ## Defining Functions
 
 ```python

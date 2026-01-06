@@ -1,7 +1,7 @@
 # Python Lambda
 
 Lambda functions are small anonymous functions defined with the `lambda` keyword.
-
+**Deep Dive:** See [[Data Structures in Python/02 - Basic Python|Basic Python]] and [[Data Structures in Python/12 - Sorting|Sorting]] for lambda functions in sorting
 ## Basic Syntax
 
 ```python

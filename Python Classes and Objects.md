@@ -2,6 +2,8 @@
 
 Classes are blueprints for creating objects.
 
+**Deep Dive:** See [[Data Structures in Python/03 - Object-Oriented Programming|OOP in Data Structures]] for detailed examples and design patterns
+
 ## Creating a Class
 
 ```python

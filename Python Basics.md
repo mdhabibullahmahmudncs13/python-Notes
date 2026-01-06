@@ -19,3 +19,5 @@ Fundamental concepts and building blocks of Python programming.
 ---
 
 **Related:** [[Python]] | [[Data Structures]] | [[Control Flow]]
+
+**See Also:** [[Data Structures in Python/02 - Basic Python|Data Structures Course: Basic Python]] - Comprehensive coverage of Python fundamentals with emphasis on data structures

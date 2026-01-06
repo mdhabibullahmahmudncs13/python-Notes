@@ -2,6 +2,8 @@
 
 Core concepts of Object-Oriented Programming in Python.
 
+**Deep Dive:** See [[Data Structures in Python/03 - Object-Oriented Programming|OOP in Data Structures]] for advanced patterns and real-world applications
+
 ## What is OOP?
 
 Object-Oriented Programming is a paradigm that organizes code into objects containing data (attributes) and code (methods).

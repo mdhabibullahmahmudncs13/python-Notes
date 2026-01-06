@@ -2,6 +2,8 @@
 
 Recursion is when a function calls itself.
 
+**Deep Dive:** See [[Data Structures in Python/09 - Recursion|Recursion]] for comprehensive coverage including tree traversals, divide-and-conquer, and advanced techniques
+
 ## Basic Recursion
 
 ```python
