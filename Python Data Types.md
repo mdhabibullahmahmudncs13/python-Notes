@@ -48,7 +48,7 @@ x = {"name": "John", "age": 36}      # dict
 
 # Set
 x = {"apple", "banana", "cherry"}    # set
-x = frozenset({"apple", "banana"})   # frozenset
+x = frozenset({"apple", "banana"})   # frozenset  (see [[Python Frozenset]])
 
 # Boolean
 x = True                             # bool

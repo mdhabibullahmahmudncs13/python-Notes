@@ -8,6 +8,7 @@ Control flow determines the order in which code executes, allowing programs to m
 - [[Python Match Statements]] - Pattern matching (Python 3.10+)
 - [[Python While Loops]] - Repeat while condition is true
 - [[Python For Loops]] - Iterate over sequences
+- [[Python Break Continue]] - Loop control statements
 
 ## Control Flow Keywords
 
